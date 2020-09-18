@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6f9d08637249426500aa73ac8fd1f8b",
+    "revision": "08a10f5dbb1f513775f58326a1d8d7d3",
     "url": "/road_to_mars/index.html"
   },
   {
-    "revision": "94a1c5572f40647543c1",
-    "url": "/road_to_mars/static/css/main.20745f97.chunk.css"
+    "revision": "9a1f0bb85c86d4dfd474",
+    "url": "/road_to_mars/static/css/main.a7633ed7.chunk.css"
   },
   {
     "revision": "213ac0bade28478d8455",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/road_to_mars/static/js/2.c1002582.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94a1c5572f40647543c1",
+    "revision": "9a1f0bb85c86d4dfd474",
     "url": "/road_to_mars/static/js/main.6eac2b51.chunk.js"
   },
   {

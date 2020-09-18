@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/road_to_mars/precache-manifest.21518d38fcc51e30480dccd312c6eab7.js"
+  "/road_to_mars/precache-manifest.9f3adc1ee9348006b8d51f050316b6a1.js"
 );
 
 self.addEventListener('message', (event) => {

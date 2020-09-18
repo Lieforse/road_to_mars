@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/road_to_mars/static/css/main.20745f97.chunk.css",
+    "main.css": "/road_to_mars/static/css/main.a7633ed7.chunk.css",
     "main.js": "/road_to_mars/static/js/main.6eac2b51.chunk.js",
     "main.js.map": "/road_to_mars/static/js/main.6eac2b51.chunk.js.map",
     "runtime-main.js": "/road_to_mars/static/js/runtime-main.1042020c.js",
@@ -8,15 +8,15 @@
     "static/js/2.c1002582.chunk.js": "/road_to_mars/static/js/2.c1002582.chunk.js",
     "static/js/2.c1002582.chunk.js.map": "/road_to_mars/static/js/2.c1002582.chunk.js.map",
     "index.html": "/road_to_mars/index.html",
-    "precache-manifest.21518d38fcc51e30480dccd312c6eab7.js": "/road_to_mars/precache-manifest.21518d38fcc51e30480dccd312c6eab7.js",
+    "precache-manifest.9f3adc1ee9348006b8d51f050316b6a1.js": "/road_to_mars/precache-manifest.9f3adc1ee9348006b8d51f050316b6a1.js",
     "service-worker.js": "/road_to_mars/service-worker.js",
-    "static/css/main.20745f97.chunk.css.map": "/road_to_mars/static/css/main.20745f97.chunk.css.map",
+    "static/css/main.a7633ed7.chunk.css.map": "/road_to_mars/static/css/main.a7633ed7.chunk.css.map",
     "static/js/2.c1002582.chunk.js.LICENSE.txt": "/road_to_mars/static/js/2.c1002582.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1042020c.js",
     "static/js/2.c1002582.chunk.js",
-    "static/css/main.20745f97.chunk.css",
+    "static/css/main.a7633ed7.chunk.css",
     "static/js/main.6eac2b51.chunk.js"
   ]
 }

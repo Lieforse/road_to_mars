@@ -10,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(/images/background.jpg);
+  background-image: url(/road_to_mars/images/background.jpg); /* change to /public/images/background.jpg on local server*/
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -61,8 +61,6 @@ body {
       top: 0;
       width: 600px;
       height: 100%;
-      background-image: url(/images/nebula.png);
-      background-size: cover;
       opacity: 0.6;
       z-index: 1;
     }
@@ -79,7 +77,7 @@ body {
     z-index: 2;
 
     .mars-planet {
-      background-image: url(/images/mars-planet.png);
+      background-image: url(/road_to_mars/images/mars-planet.png); /* change to /public/images/mars-planet.png on local server*/
       background-size: cover;
       display: block;
       position: absolute;

@@ -13,4 +13,4 @@ npm start
 
 NASA API, React, React Redux, Redux Thunk, Bootstrap and SCSS.
 
-## [Live Demo](https://lieforse.github.io/Clover_Dynamics_test/)
+## [Live Demo](https://lieforse.github.io/road_to_mars/)
